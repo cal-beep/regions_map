@@ -1,0 +1,369 @@
+"Region","ZIP_Code","City","County","lat","lon","X2019_estimate"
+"northeast",57401,"aberdeen","brown",45.46,-98.47,28257
+"northeast",57402,"aberdeen","brown",45.46,-98.47,28257
+"central",57520,"agar","sully",44.84,-100.07,80
+"central",57420,"akaska","walworth",45.33,-100.12,47
+"southeast",57001,"alcester","union",43.02,-96.63,755
+"southeast",57311,"alexandria","hanson",43.65,-97.78,644
+"west",57714,"allen","bennett",43.28,-101.93,463
+"northeast",57312,"alpena","jerauld",44.18,-98.37,285
+"northeast",57421,"amherst","marshall",45.7382146787837,-97.9210878757392,71
+"northeast",57422,"andover","day",45.41,-97.9,82
+"northeast",57212,"arlington","kingsbury",44.36,-97.13,859
+"southeast",57313,"armour","douglas",43.32,-98.34,669
+"northeast",57314,"artesian","sanborn",44.01,-97.92,137
+"northeast",57424,"ashton","spink",44.99,-98.5,124
+"northeast",57213,"astoria","deuel",44.56,-96.55,135
+"northeast",57002,"aurora","brookings",44.28,-96.69,834
+"southeast",57315,"avon","bon homme",43.01,-98.06,590
+"northeast",57214,"badger","kingsbury",44.49,-97.21,101
+"southeast",57003,"baltic","minnehaha",43.76,-96.74,1178
+"northeast",57426,"barnard","brown",45.7328514534461,-98.4969087123668,37
+"west",57716,"batesland","oglala lakota",43.13,-102.1,114
+"northeast",57427,"bath","brown",45.47,-98.32,223
+"west",57717,"belle fourche","butte",44.66,-103.86,5702
+"west",57521,"belvidere","jackson",43.83,-101.27,57
+"southeast",57004,"beresford","union",43.08,-96.78,2026
+"northeast",57216,"big stone city","grant",45.2916734274388,-96.465188651716,456
+"west",57620,"bison","perkins",45.52,-102.47,322
+"west",57718,"black hawk","meade",44.1511817951145,-103.308726554247,3057
+"central",57522,"blunt","hughes",44.52,-99.99,354
+"central",57317,"bonesteel","gregory",43.08,-98.95,273
+"northeast",57428,"bowdle","edmunds",45.45,-99.66,468
+"west",57719,"box elder","pennington",44.11,-103.08,10119
+"northeast",57217,"bradley","clark",45.09,-97.64,78
+"southeast",57005,"brandon","minnehaha",43.59,-96.58,10074
+"northeast",57218,"brandt","deuel",44.67,-96.63,107
+"northeast",57429,"brentford","spink",45.16,-98.32,80
+"southeast",57319,"bridgewater","mccook",43.55,-97.5,461
+"northeast",57219,"bristol","day",45.35,-97.75,308
+"northeast",57430,"britton","marshall",45.79,-97.75,1273
+"northeast",57006,"brookings","brookings",44.3,-96.79,24415
+"northeast",57007,"brookings","brookings",44.3,-96.79,24415
+"northeast",57220,"bruce","brookings",44.44,-96.89,205
+"northeast",57221,"bryant","hamlin",44.59,-97.47,454
+"west",57720,"buffalo","harding",45.59,-103.54,369
+"west",57722,"buffalo gap","custer",43.49,-103.32,144
+"central",57621,"bullhead","corson",45.77,-101.08,348
+"southeast",57010,"burbank","clay",42.7464097991704,-96.8294772577994,429
+"central",57523,"burke","gregory",43.18,-99.29,586
+"west",57724,"camp crook","harding",45.55,-103.97,66
+"southeast",57012,"canistota","mccook",43.6,-97.29,636
+"southeast",57321,"canova","miner",43.88,-97.5,100
+"southeast",57013,"canton","lincoln",43.3,-96.58,3560
+"west",57725,"caputa","pennington",43.9945851637848,-102.98056575633,0
+"northeast",57322,"carpenter","clark",44.6380388030846,-97.9159080485711,2
+"southeast",57323,"carthage","miner",44.17,-97.71,130
+"northeast",57223,"castlewood","hamlin",44.72,-97.03,641
+"northeast",57324,"cavour","beadle",44.37,-98.04,123
+"southeast",57014,"centerville","turner",43.12,-96.96,872
+"central",57325,"chamberlain","brule",43.79,-99.33,2366
+"central",57326,"chamberlain","brule",43.79,-99.33,2366
+"southeast",57015,"chancellor","turner",43.37,-96.99,264
+"central",57622,"cherry creek","ziebach",44.6053242344949,-101.500170531568,414
+"southeast",57016,"chester","lake",43.9,-96.93,358
+"northeast",57224,"claire city","roberts",45.8571215537206,-97.1039541259793,75
+"northeast",57432,"claremont","brown",45.67,-98.02,128
+"northeast",57225,"clark","clark",44.88,-97.73,1061
+"northeast",57226,"clear lake","deuel",44.76,-96.68,1262
+"northeast",57017,"colman","moody",43.98,-96.81,579
+"central",57528,"colome","tripp",43.26,-99.72,280
+"southeast",57018,"colton","minnehaha",43.79,-96.93,669
+"northeast",57433,"columbia","brown",45.61,-98.31,138
+"northeast",57434,"conde","spink",45.16,-98.1,142
+"northeast",57227,"corona","roberts",45.34,-96.76,106
+"southeast",57328,"corsica","douglas",43.42,-98.41,575
+"northeast",57435,"cresbard","faulk",45.17,-98.95,99
+"southeast",57020,"crooks","minnehaha",43.66,-96.81,1327
+"west",57730,"custer","custer",43.77,-103.6,1969
+"central",57529,"dallas","gregory",43.24,-99.52,122
+"central",57329,"dante","charles mix",43.04,-98.19,86
+"southeast",57021,"davis","turner",43.26,-96.99,88
+"northeast",57231,"de smet","kingsbury",44.39,-97.55,1052
+"west",57732,"deadwood","lawrence",44.38,-103.72,1293
+"southeast",57022,"dell rapids","minnehaha",43.83,-96.72,3628
+"southeast",57330,"delmont","douglas",43.27,-98.16,217
+"southeast",57331,"dimock","hutchinson",43.48,-97.99,130
+"northeast",57436,"doland","spink",44.89,-98.1,181
+"west",57531,"draper","jones",43.93,-100.54,67
+"central",57623,"dupree","ziebach",45.05,-101.6,518
+"central",57625,"eagle butte","dewey",44.99,-101.23,1346
+"northeast",57232,"eden","marshall",45.62,-97.42,100
+"west",57735,"edgemont","fall river",43.3,-103.83,719
+"northeast",57024,"egan","moody",44,-96.65,273
+"southeast",57025,"elk point","union",42.68,-96.68,1871
+"northeast",57026,"elkton","brookings",44.24,-96.48,726
+"west",57706,"ellsworth afb","meade",44.1538298952842,-103.09018705767,8000
+"southeast",57332,"emery","hanson",43.6,-97.62,451
+"west",57737,"enning","meade",44.5753490395878,-102.563021439186,90
+"northeast",57233,"erwin","kingsbury",44.49,-97.44,44
+"northeast",57234,"estelline","hamlin",44.58,-96.9,746
+"southeast",57334,"ethan","davison",43.55,-97.98,322
+"northeast",57437,"eureka","mcpherson",45.77,-99.62,826
+"west",57738,"fairburn","custer",43.69,-103.21,98
+"central",57335,"fairfax","gregory",43.03,-98.89,115
+"southeast",57027,"fairview","lincoln",43.22,-96.49,74
+"west",57626,"faith","meade",45.03,-102.04,411
+"northeast",57438,"faulkton","faulk",45.03,-99.13,709
+"southeast",57337,"fedora","miner",44.01,-97.79,14
+"northeast",57439,"ferney","brown",45.33,-98.09,41
+"northeast",57028,"flandreau","moody",44.05,-96.6,2316
+"northeast",57235,"florence","codington",45.05,-97.33,360
+"west",57741,"fort meade","meade",44.4096217284008,-103.47131747301,86
+"central",57532,"fort pierre","stanley",44.37,-100.38,2217
+"central",57339,"fort thompson","buffalo",44.05,-99.41,1282
+"northeast",57440,"frankfort","spink",44.88,-98.31,151
+"northeast",57441,"frederick","brown",45.83,-98.51,196
+"southeast",57029,"freeman","hutchinson",43.35,-97.43,1275
+"southeast",57340,"fulton","hanson",43.73,-97.82,96
+"central",57341,"gann valley","buffalo",44.03,-98.99,14
+"northeast",57236,"garden city","clark",44.9595438369227,-97.5803989889817,58
+"southeast",57030,"garretson","minnehaha",43.71,-96.5,1147
+"northeast",57237,"gary","deuel",44.79,-96.46,229
+"southeast",57031,"gayville","yankton",42.89,-97.17,396
+"central",57342,"geddes","charles mix",43.25,-98.7,207
+"central",57442,"gettysburg","potter",45.01,-99.95,1081
+"central",57630,"glencross","dewey",45.4482917050667,-100.921469299085,43
+"central",57631,"glenham","walworth",45.53,-100.27,105
+"northeast",57238,"goodwin","deuel",44.88,-96.85,148
+"central",57533,"gregory","gregory",43.23,-99.42,1242
+"northeast",57239,"grenville","day",45.47,-97.39,51
+"northeast",57445,"groton","brown",45.45,-98.1,1475
+"central",57534,"hamill","tripp",43.59,-99.69,0
+"southeast",57032,"harrisburg","lincoln",43.43,-96.7,6710
+"southeast",57344,"harrison","douglas",43.43,-98.53,53
+"central",57536,"harrold","hughes",44.52,-99.74,124
+"southeast",57033,"hartford","minnehaha",43.62,-96.94,3354
+"central",57537,"hayes","stanley",44.3716904187189,-101.021546321331,77
+"northeast",57241,"hayti","hamlin",44.66,-97.2,383
+"northeast",57242,"hazel","hamlin",44.76,-97.38,86
+"northeast",57446,"hecla","brown",45.88,-98.15,216
+"northeast",57243,"henry","codington",44.88,-97.46,265
+"west",57744,"hermosa","custer",43.84,-103.19,425
+"central",57632,"herreid","campbell",45.84,-100.07,416
+"central",57538,"herrick","gregory",43.12,-99.19,103
+"central",57345,"highmore","hyde",44.52,-99.44,726
+"west",57745,"hill city","pennington",43.93,-103.57,1032
+"northeast",57348,"hitchcock","beadle",44.63,-98.41,95
+"central",57540,"holabird","hyde",44.5270410791622,-99.5983905896957,130
+"northeast",57448,"hosmer","edmunds",45.58,-99.47,186
+"west",57747,"hot springs","fall river",43.43,-103.48,3502
+"northeast",57449,"houghton","brown",45.7629880738032,-98.2104228370448,164
+"central",57450,"hoven","potter",45.24,-99.78,366
+"southeast",57349,"howard","miner",44.01,-97.52,757
+"west",57748,"howes","meade",44.6185109925182,-102.051843490746,469
+"southeast",57034,"hudson","lincoln",43.13,-96.46,345
+"southeast",57035,"humboldt","minnehaha",43.64,-97.07,567
+"southeast",57036,"hurley","turner",43.28,-97.09,399
+"northeast",57350,"huron","beadle",44.36,-98.21,13380
+"northeast",57399,"huron","beadle",44.36,-98.21,13380
+"central",57541,"ideal","tripp",43.543359121331,-99.9217250031238,129
+"west",57750,"interior","jackson",43.73,-101.98,106
+"northeast",57451,"ipswich","edmunds",45.44,-99.03,891
+"southeast",57037,"irene","clay",43.08,-97.16,406
+"northeast",57353,"iroquois","kingsbury",44.37,-97.85,259
+"central",57633,"isabel","dewey",45.39,-101.43,152
+"central",57452,"java","walworth",45.5,-99.88,127
+"southeast",57038,"jefferson","union",42.6,-96.57,511
+"west",57543,"kadoka","jackson",43.83,-101.51,717
+"southeast",57354,"kaylor","hutchinson",43.19,-97.84,24
+"central",57634,"keldron","corson",45.9319753611175,-101.809625036678,128
+"central",57544,"kennebec","lyman",43.9,-99.86,247
+"west",57751,"keystone","pennington",43.9,-103.43,343
+"central",57355,"kimball","brule",43.75,-98.96,673
+"northeast",57245,"kranzburg","codington",44.89,-96.91,174
+"west",57752,"kyle","oglala lakota",43.42,-102.18,1093
+"northeast",57246,"labolt","grant",45.0507815571933,-96.6784308479709,90
+"central",57356,"lake andes","charles mix",43.16,-98.54,821
+"northeast",57247,"lake city","marshall",45.7252331970597,-97.4132506903132,52
+"northeast",57248,"lake norden","hamlin",44.58,-97.21,522
+"northeast",57249,"lake preston","kingsbury",44.36,-97.38,555
+"northeast",57358,"lane","jerauld",44.07,-98.42,60
+"northeast",57454,"langford","marshall",45.6,-97.83,326
+"central",57636,"lantry","dewey",45.0143937241708,-101.431758600017,185
+"west",57754,"lead","lawrence",44.35,-103.77,2943
+"central",57455,"lebanon","potter",45.07,-99.77,43
+"west",57638,"lemmon","perkins",45.94,-102.16,1174
+"southeast",57039,"lennox","lincoln",43.35,-96.89,2479
+"northeast",57456,"leola","mcpherson",45.72,-98.94,427
+"southeast",57040,"lesterville","yankton",43.04,-97.59,131
+"northeast",57359,"letcher","sanborn",43.9,-98.14,176
+"central",57639,"little eagle","corson",45.68,-100.8,319
+"west",57640,"lodgepole","perkins",45.7723734218112,-102.646803584475,43
+"northeast",57457,"long lake","mcpherson",45.86,-99.21,31
+"west",57547,"long valley","jackson",43.4631185498706,-101.495627371449,133
+"central",57548,"lower brule","lyman",44.07,-99.58,613
+"west",57755,"ludlow","harding",45.8343463857615,-103.376683389585,135
+"southeast",57041,"lyons","minnehaha",43.7229410313699,-96.8714171913848,629
+"southeast",57042,"madison","lake",44.01,-97.11,7270
+"west",57756,"manderson","oglala lakota",43.2351383242298,-102.470880292518,279
+"northeast",57460,"mansfield","brown",45.25,-98.56,165
+"southeast",57043,"marion","turner",43.42,-97.26,780
+"west",57551,"martin","bennett",43.18,-101.73,1045
+"central",57361,"marty","charles mix",43,-98.43,402
+"northeast",57251,"marvin","grant",45.26,-96.92,29
+"central",57641,"mcintosh","corson",45.9214885176607,-101.349859504386,167
+"central",57642,"mclaughlin","corson",45.8143482819614,-100.810824488523,653
+"west",57644,"meadow","perkins",45.5309941878083,-102.27249553942,15
+"northeast",57461,"mellette","spink",45.15,-98.5,214
+"southeast",57045,"menno","hutchinson",43.24,-97.58,614
+"west",57552,"midland","haakon",44.07,-101.16,127
+"northeast",57252,"milbank","grant",45.22,-96.63,3103
+"west",57553,"milesville","haakon",44.4580691439088,-101.679355339841,316
+"northeast",57362,"miller","hand",44.52,-98.99,1334
+"west",57555,"mission","todd",43.31,-100.66,1257
+"southeast",57046,"mission hill","yankton",42.92,-97.28,164
+"southeast",57301,"mitchell","davison",43.73,-98.03,15679
+"central",57601,"mobridge","walworth",45.54,-100.44,3444
+"southeast",57047,"monroe","turner",43.49,-97.22,155
+"southeast",57048,"montrose","mccook",43.7,-97.18,443
+"central",57645,"morristown","corson",45.9378390740581,-101.719152880495,68
+"central",57646,"mound city","campbell",45.7263431449825,-100.068994841887,66
+"southeast",57363,"mount vernon","davison",43.71,-98.26,436
+"west",57758,"mud butte","meade",45.0046185824886,-102.878055561397,89
+"west",57559,"murdo","jones",43.89,-100.71,438
+"west",57759,"nemo","lawrence",44.194304760192,-103.504869109719,546
+"northeast",57255,"new effington","roberts",45.86,-96.92,249
+"southeast",57364,"new holland","douglas",43.43,-98.61,0
+"west",57761,"new underwood","pennington",44.1,-102.84,673
+"west",57760,"newell","butte",44.72,-103.42,597
+"west",57762,"nisland","butte",44.67,-103.55,225
+"west",57560,"norris","mellette",43.47,-101.19,197
+"southeast",57049,"north sioux city","union",42.5365744123823,-96.4963464955279,2928
+"northeast",57465,"northville","spink",45.16,-98.58,145
+"southeast",57050,"nunda","lake",44.16,-97.02,51
+"central",57365,"oacoma","lyman",43.8,-99.37,471
+"west",57763,"oelrichs","fall river",43.18,-103.23,123
+"west",57764,"oglala","oglala lakota",43.18,-102.73,1612
+"west",57562,"okaton","jones",43.86,-100.9,44
+"west",57563,"okreek","todd",43.35,-100.38,245
+"northeast",57051,"oldham","kingsbury",44.23,-97.31,120
+"southeast",57052,"olivet","hutchinson",43.24,-97.67,71
+"northeast",57466,"onaka","faulk",45.19,-99.47,14
+"central",57564,"onida","sully",44.7,-100.07,634
+"west",57766,"oral","fall river",43.4051150320421,-103.268987928256,192
+"northeast",57467,"orient","hand",44.9,-99.09,44
+"northeast",57256,"ortley","roberts",45.33,-97.2,64
+"west",57767,"owanka","pennington",44.0223007904464,-102.587690532801,16
+"southeast",57053,"parker","turner",43.4,-97.13,1023
+"southeast",57366,"parkston","hutchinson",43.39,-97.99,1477
+"west",57566,"parmelee","todd",43.32,-101.04,717
+"northeast",57257,"peever","roberts",45.54,-96.96,164
+"west",57567,"philip","haakon",44.04,-101.66,765
+"central",57367,"pickstown","charles mix",43.0673170111043,-98.5312430223111,223
+"west",57769,"piedmont","meade",44.22,-103.38,903
+"northeast",57468,"pierpont","day",45.5,-97.83,120
+"central",57501,"pierre","hughes",44.37,-100.32,13646
+"west",57770,"pine ridge","oglala lakota",43.03,-102.55,3682
+"central",57368,"plankinton","aurora",43.72,-98.48,730
+"central",57369,"platte","charles mix",43.39,-98.84,1258
+"central",57648,"pollock","campbell",45.9,-100.29,225
+"west",57772,"porcupine","oglala lakota",43.27,-102.34,1470
+"west",57649,"prairie city","perkins",45.530210032312,-102.807880244477,4
+"central",57568,"presho","lyman",43.91,-100.06,489
+"west",57773,"pringle","custer",43.61,-103.59,113
+"central",57370,"pukwana","brule",43.78,-99.18,305
+"west",57775,"quinn","pennington",43.99,-102.13,61
+"west",57650,"ralph","harding",45.7768742336214,-103.066218498375,35
+"southeast",57054,"ramona","lake",44.12,-97.22,206
+"west",57701,"rapid city","pennington",44.07,-103.22,77503
+"northeast",57258,"raymond","clark",44.91,-97.94,54
+"northeast",57469,"redfield","spink",44.87,-98.52,2273
+"west",57776,"redig","harding",45.2714936344637,-103.548375168786,5
+"northeast",57371,"ree heights","hand",44.52,-99.2,58
+"central",57569,"reliance","lyman",43.88,-99.6,212
+"southeast",57055,"renner","minnehaha",43.645337527329,-96.7113806998142,1019
+"west",57651,"reva","harding",45.5452403569356,-103.084466468196,142
+"northeast",57259,"revillo","grant",45.02,-96.57,105
+"central",57652,"ridgeview","dewey",45.0850111129548,-100.800635299866,364
+"northeast",57470,"rockham","faulk",44.9,-98.82,33
+"northeast",57471,"roscoe","edmunds",45.45,-99.34,289
+"west",57570,"rosebud","todd",43.24,-100.82,1703
+"northeast",57260,"rosholt","roberts",45.87,-96.73,429
+"northeast",57261,"roslyn","day",45.5,-97.49,168
+"southeast",57057,"rutland","lake",44.0895508930907,-96.9670791645685,202
+"central",57571,"saint charles","gregory",43.09,-99.09,11
+"west",57572,"saint francis","todd",43.14,-100.9,654
+"northeast",57373,"saint lawrence","hand",44.52,-98.94,202
+"west",57779,"saint onge","lawrence",44.55,-103.72,112
+"southeast",57058,"salem","mccook",43.72,-97.39,1285
+"west",57780,"scenic","pennington",43.7796797321183,-102.554879904907,56
+"southeast",57059,"scotland","bon homme",43.15,-97.72,804
+"central",57472,"selby","walworth",45.51,-100.03,627
+"northeast",57473,"seneca","faulk",45.06,-99.51,37
+"northeast",57061,"sinai","brookings",44.24,-97.04,124
+"southeast",57101,"sioux falls","minnehaha",43.54,-96.73,183793
+"northeast",57262,"sisseton","roberts",45.66,-97.05,2398
+"west",57782,"smithwick","fall river",43.301584487639,-103.218468503627,64
+"northeast",57263,"south shore","codington",45.1,-96.93,215
+"west",57783,"spearfish","lawrence",44.49,-103.82,11756
+"west",57799,"spearfish","lawrence",44.49,-103.82,11756
+"southeast",57374,"spencer","mccook",43.73,-97.59,147
+"southeast",57062,"springfield","bon homme",42.86,-97.9,1922
+"central",57346,"stephan","hyde",44.2483171843904,-99.4531221096057,40
+"central",57375,"stickney","aurora",43.59,-98.44,272
+"northeast",57264,"stockholm","grant",45.1,-96.8,107
+"northeast",57265,"strandburg","grant",45.04,-96.76,70
+"northeast",57474,"stratford","brown",45.32,-98.3,74
+"west",57785,"sturgis","meade",44.41,-103.52,6922
+"northeast",57266,"summit","roberts",45.31,-97.04,289
+"southeast",57063,"tabor","bon homme",42.95,-97.66,402
+"southeast",57064,"tea","lincoln",43.45,-96.83,6031
+"central",57656,"timber lake","dewey",45.43,-101.07,499
+"central",57475,"tolstoy","potter",45.21,-99.61,36
+"northeast",57268,"toronto","deuel",44.57,-96.64,209
+"central",57657,"trail city","corson",45.4735608871222,-100.724225442603,229
+"northeast",57065,"trent","moody",43.91,-96.66,230
+"southeast",57376,"tripp","hutchinson",43.23,-97.97,623
+"northeast",57476,"tulare","spink",44.74,-98.51,211
+"northeast",57477,"turton","spink",45.05,-98.1,49
+"west",57574,"tuthill","bennett",43.1557372952368,-101.493889273249,100
+"northeast",57269,"twin brooks","grant",45.21,-96.79,70
+"southeast",57066,"tyndall","bon homme",42.99,-97.86,1022
+"west",57787,"union center","meade",44.5607887349764,-102.669465470303,381
+"southeast",57067,"utica","yankton",42.98,-97.5,67
+"west",57788,"vale","butte",44.62,-103.4,115
+"southeast",57068,"valley springs","minnehaha",43.58,-96.47,730
+"northeast",57270,"veblen","marshall",45.86,-97.29,537
+"southeast",57069,"vermillion","clay",42.78,-96.92,10926
+"southeast",57070,"viborg","turner",43.17,-97.08,767
+"northeast",57271,"vienna","clark",44.7,-97.5,45
+"northeast",57379,"virgil","beadle",44.29,-98.43,18
+"central",57576,"vivian","lyman",43.93,-100.3,119
+"northeast",57071,"volga","brookings",44.32,-96.92,2028
+"southeast",57072,"volin","yankton",42.96,-97.18,163
+"central",57380,"wagner","charles mix",43.08,-98.29,1547
+"southeast",57073,"wakonda","clay",43.01,-97.11,294
+"central",57658,"wakpala","corson",45.6558936167815,-100.536151741766,308
+"central",57659,"walker","corson",45.9103060727448,-101.090453136725,2
+"west",57790,"wall","pennington",43.99,-102.24,875
+"northeast",57272,"wallace","codington",45.08,-97.48,87
+"west",57577,"wanblee","jackson",43.57,-101.66,975
+"northeast",57479,"warner","brown",45.33,-98.5,468
+"west",57791,"wasta","pennington",44.07,-102.45,82
+"central",57660,"watauga","corson",45.9227479098723,-101.542953636698,38
+"northeast",57201,"watertown","codington",44.8993260709382,-97.1255263360403,22174
+"northeast",57273,"waubay","day",45.33,-97.31,560
+"northeast",57274,"webster","day",45.34,-97.52,1726
+"southeast",57075,"wentworth","lake",43.9967938505089,-96.9642218219603,194
+"northeast",57381,"wessington","beadle",44.46,-98.7,177
+"northeast",57382,"wessington springs","jerauld",44.08,-98.57,911
+"northeast",57481,"westport","brown",45.65,-98.5,133
+"northeast",57276,"white","brookings",44.44,-96.65,489
+"central",57383,"white lake","aurora",43.73,-98.71,369
+"west",57792,"white owl","meade",44.5923619169,-102.430935700917,194
+"west",57579,"white river","mellette",43.57,-100.74,574
+"central",57661,"whitehorse","dewey",45.27,-100.9,141
+"west",57793,"whitewood","lawrence",44.46,-103.64,979
+"northeast",57278,"willow lake","clark",44.63,-97.64,243
+"northeast",57279,"wilmot","roberts",45.41,-96.86,501
+"southeast",57076,"winfred","lake",44,-97.36,56
+"central",57580,"winner","tripp",43.38,-99.85,2824
+"central",57584,"witten","tripp",43.4405003050316,-100.081935687082,61
+"northeast",57384,"wolsey","beadle",44.41,-98.47,399
+"west",57585,"wood","mellette",43.5,-100.48,63
+"northeast",57385,"woonsocket","sanborn",44.05,-98.27,648
+"southeast",57077,"worthing","lincoln",43.33,-96.77,1007
+"west",57794,"wounded knee","oglala lakota",43.14,-102.37,470
+"northeast",57386,"yale","beadle",44.43,-97.99,115
+"southeast",57078,"yankton","yankton",42.89,-97.39,14687
